@@ -1,0 +1,18 @@
+¿Qué es un fichero?
+Primeramente, ¿qué es un fichero? Un fichero es un conjunto de bits almacenados en un dispositivo de memoria persistente, normalmente un disco duro. Este conjunto de información se identifica con un nombre (el nombre del fichero) y la dirección de la carpeta o directorio que lo contiene. Todos, absolutamente todos los ficheros se localizan en un directorio determinado que se conoce como la ruta del fichero.
+
+los ficheros se conocen también como archivos informáticos porque son equivalentes digitales de los archivos escritos por ejemplo en expedientes, tarjetas o libretas que encontraríamos en una oficina tradicional.
+
+ los ficheros se suelen identificar también con una extensión. Una extensión es un código que se escribe después del nombre, con un punto y varios caracteres y que nos permite identificar varios ficheros de un mismo tipo. 
+ 
+ ¿Que operaciones permite?
+ Creacion-Apertura-Cierre-Extension
+ 
+ ¿Que es el puntero del fichero?
+Representa el lugar donde apunta el fichero antes de ralizar una operacion
+determinada, como el lugar donde ponemos nuestro dedo o fijamos la vista
+mientras leemos o escribimos.
+
+Ficheros de texto y Ficheros binarios
+Los ficheros de texto guardan datos en forma de texto plano, son entendibles
+por las personas, pero los binarios no, por que los guardan en el lenguaje maquina.
